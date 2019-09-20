@@ -10,7 +10,7 @@ Assumptions: (1) PTP (the precision time protocol) is running between the flight
 
 To install and run the simulator on windows with python 2.7 see Install.txt (sorry the code is so very messy, I wrote it before I really understood how to program)
 
-For Trilateration: See section 3.3 of Trilateration.pdf to understand the multilateration calculation.
+For Trilateration: See section 3.3 of Trilateration.pdf
 
 For least squares: 
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.least_squares.html and 
