@@ -1,6 +1,6 @@
 Instructions for Running FindMe.py for Windows, Python Version 2.7
 
-Contact: Michael Phillips | mailtwomike@gmail.com | (724) 263-0292
+Contact: Michael Phillips | mailtwomike@gmail.com
 
 1) download and install python 2 from http://python.org/download
 
