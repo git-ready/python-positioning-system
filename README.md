@@ -8,4 +8,7 @@ The Answer: In theory, yes. The the Findme.py program runs a simulation of this 
 
 Assumptions: (1) PTP (the precision time protocol) is running between the flight and ground computers, and (2) the computers are capable of producing accurate enough timestamps (timestamp precision 10x > than TOF) for incoming and outgoing messages. This level of clock syncronization is nessesary to determine accurate time of flight (TOF) between the flight and ground computer. The difference beetween the timestamps is the TOF.
 
-To install and run the simulator on windows with python 2.7 see install.txt
+To install and run the simulator on windows with python 2.7 see Install.txt
+
+To understand the multilateration calculation see section 3.3 of Trilateration.pdf
+For least squares see the scipy --> optimize --> least_squares, and https://en.wikipedia.org/wiki/Least_squares
