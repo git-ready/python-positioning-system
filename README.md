@@ -1,4 +1,4 @@
-# Python-Positioning-System
+# python-positioning-system
 
 Inputs: latitude, longitude, altitude, message TOF  |  Algorithm: least squares or multilateration |  Output: position in Google Earth  
 
