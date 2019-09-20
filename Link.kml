@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+<open>1</open>
+<name>My Network Links</name>
+
+<NetworkLink>
+	<name>RT_Position</name>
+	<Link>
+		<href>RT_Position.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>1</refreshInterval>
+	</Link>
+	<refreshInterval>2</refreshInterval><refreshMode>onInterval</refreshMode>
+</NetworkLink>
+
+<NetworkLink>
+	<name>RT_Points</name>
+	<Link>
+		<href>RT_Points.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>1</refreshInterval>
+	</Link>
+	<refreshInterval>2</refreshInterval><refreshMode>onInterval</refreshMode>
+</NetworkLink>
+
+<NetworkLink>
+	<name>Path</name>
+	<Link>
+		<href>Path.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>1</refreshInterval>
+	</Link>
+	<refreshInterval>2</refreshInterval><refreshMode>onInterval</refreshMode>
+</NetworkLink>
+
+<NetworkLink>
+	<name>Position</name>
+	<Link>
+		<href>Position.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>1</refreshInterval>
+	</Link>
+	<refreshInterval>2</refreshInterval><refreshMode>onInterval</refreshMode>
+</NetworkLink>		
+
+</Folder>
+</kml>
