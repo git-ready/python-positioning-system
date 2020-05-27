@@ -16,7 +16,7 @@ For least squares:
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.least_squares.html and 
 https://en.wikipedia.org/wiki/Least_squares
 
-P.S. the code works but it is a sprawling mess, I wrote this before I discovered the Structure and Interpretation of Computer Programs, sorry.
+P.S. the code works but it is a sprawling mess, I wrote this before reading the book: Structure and Interpretation of Computer Programs.
 
 March 4, 2019
 Michael Phillips
